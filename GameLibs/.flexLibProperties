@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.cloudnet.common.interfaces.IResourceHandle"/>
+    <classEntry path="com.cloudnet.common.mvc.model.ResourceProxy"/>
+    <classEntry path="com.cloudnet.common.utils.AnimSpriteUtil"/>
+    <classEntry path="com.cloudnet.common.utils.FunMuxUtil"/>
+    <classEntry path="com.cloudnet.common.events.SceneEvent"/>
+    <classEntry path="com.cloudnet.common.core.SymbolSprite"/>
+    <classEntry path="com.cloudnet.common.events.CrossDataEvent"/>
+    <classEntry path="com.cloudnet.common.vo.CrossData"/>
+    <classEntry path="com.cloudnet.common.utils.StringUtil"/>
+    <classEntry path="com.cloudnet.common.mvc.model.XMLLoaderProxy"/>
+    <classEntry path="com.cloudnet.common.mvc.model.business.DataLoaderDelegate"/>
+    <classEntry path="com.cloudnet.common.mvc.model.business.ResourceDelegate"/>
+    <classEntry path="com.cloudnet.common.mvc.model.CommonNotification"/>
+    <classEntry path="com.cloudnet.common.interfaces.IDataHandle"/>
+    <classEntry path="com.cloudnet.common.mvc.model.JSONLoaderProxy"/>
+    <classEntry path="com.cloudnet.common.mvc.model.business.SocketDelegate"/>
+    <classEntry path="com.cloudnet.common.interfaces.ISocketHandle"/>
+    <classEntry path="com.cloudnet.common.mvc.model.SocketProxy"/>
+    <classEntry path="com.cloudnet.common.vo.SocketData"/>
+    <classEntry path="com.cloudnet.common.utils.ResourceUtil"/>
+    <classEntry path="com.cloudnet.common.mvc.model.LanguageProxy"/>
+    <classEntry path="com.cloudnet.common.mvc.model.LanguageCode"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

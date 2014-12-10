@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<data>
+	<LoaderMax name="lobby_resource_doc" load="true" prependURLs="http://localhost:8081/cloudnet/">
+	    <ImageLoader name="lobby_back" url="resource/share/background/RubyRoyalCasinoLobby.png" />
+	    <ImageLoader name="campaign_back" url="resource/share/background/campaign_back.jpg" />
+	    <ImageLoader name="pig_walk" url="resource/share/sprite_sheet_animations/pig_walk.png" />
+	    <DataLoader name="pig_walk_json" url="resource/share/sprite_sheet_animations/pig_walk.json" />
+	    <SWFLoader name="flash_symbol" url="resource/share/symbol_swf/flashSymbol.swf" autoPlay="false" />
+	    <MP3Loader name="here_we_go_mp3" url="resource/sound/here_we_go.mp3" autoPlay="false" />
+	    <MP3Loader name="dokan_no_naka_no_mozart_mp3" url="resource/sound/dokan_no_naka_no_mozart.mp3" autoPlay="false" />
+	    <MP3Loader name="puppet_dance_mp3" url="resource/sound/puppet_dance.mp3" autoPlay="false" />
+    </LoaderMax>
+    <Languages prependURLs="http://localhost:8081/cloudnet/">
+    	<Lang locale="zh-TW" url="lang/lobby/lobby_zh_TW.xml" />
+    	<Lang locale="zh-CN" url="lang/lobby/lobby_zh_CN.xml" />
+    	<Lang locale="en" url="lang/lobby/lobby_en.xml" />
+    </Languages>
+</data>

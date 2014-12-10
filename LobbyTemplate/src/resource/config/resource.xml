@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+    <Lobby>
+    	<Theme id="lobby_001" name="Hello Lobby" src="Lobby.swf" resource="resource/config/lobby/lobby_theme_001.xml" />
+    </Lobby>
+	<Games>
+		<Game id="table_001" name="poker" src="Game.swf"  resource="resource/config/games/poker.xml" />
+		<Game id="table_002" name="sicbo" src="Game.swf" resource="resource/config/games/sicbo.xml" />
+	</Games>
+</data>

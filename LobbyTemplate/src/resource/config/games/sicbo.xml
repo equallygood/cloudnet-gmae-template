@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<data>
+	<LoaderMax name="sicbo_resource_doc" load="true" prependURLs="http://localhost:8081/cloudnet/">
+	    <ImageLoader name="sicbo_back" url="resource/share/background/SicBo_back.jpg" />
+	    <ImageLoader name="sicbo_screen_back" url="resource/share/background/sicbo_screen_back.jpg" />
+	    <ImageLoader name="walking_guy" url="resource/game/SpriteSheet.png" />
+	    <DataLoader name="walking_guy_json" url="resource/game/SpriteSheet.json" />
+	    <SWFLoader name="flash_symbol" url="resource/share/symbol_swf/flashSymbol.swf" autoPlay="false" />
+	    <MP3Loader name="here_we_go_mp3" url="resource/sound/here_we_go.mp3" autoPlay="false" />
+	    <MP3Loader name="dokan_no_naka_no_mozart_mp3" url="resource/sound/dokan_no_naka_no_mozart.mp3" autoPlay="false" />
+	    <MP3Loader name="puppet_dance_mp3" url="resource/sound/puppet_dance.mp3" autoPlay="false" />
+    </LoaderMax>
+</data>

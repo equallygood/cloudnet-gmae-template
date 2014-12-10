@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN"
+"http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0" xml:lang="en">
+<file>
+	<header></header>
+	<body>
+		<trans-unit id="001" resname="IDS_GREETINGS">
+			<source>welcome to our web site!</source>
+		</trans-unit>
+		<trans-unit id="002" resname="IDS_MAILING_LIST">
+			<source>Would you like to be on our mailing list?</source>
+		</trans-unit>
+		<trans-unit id="003" resname="IDS_SEE_YOU">
+			<source>see you soon!</source>
+		</trans-unit>
+	</body>
+</file>
+</xliff>
